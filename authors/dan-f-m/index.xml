@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan F-M on Astro Data Group</title>
+    <link>https://astrodata.nyc/authors/dan-f-m/</link>
+    <description>Recent content in Dan F-M on Astro Data Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://astrodata.nyc/authors/dan-f-m/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to our blog!</title>
+      <link>https://astrodata.nyc/posts/2019-07-12-welcome/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astrodata.nyc/posts/2019-07-12-welcome/</guid>
+      <description>This is the first post for our site and it&amp;rsquo;s pretty meta. This week at group meeting, I presented this blog to the group (pictured above). Our goal is to use this as a way to highlight some of the things that we work on in our group, to give ourselves some amount of accountability, and to practice open and transparent science. After this post, the plan is that each week one group member will post the figure that they presented in group meeting with a short description of what they&amp;rsquo;re working on, what they&amp;rsquo;ve recently learned, and (perhaps) where they&amp;rsquo;re stuck.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://astrodata.nyc/posts/2019-07-06-hello-world/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://astrodata.nyc/posts/2019-07-06-hello-world/</guid>
+      <description>This is our website where one member of the group will post a research update every week. This is meant to be work in progress so keep your expectations set accordingly.
+Photo by Anthony DELANOIX on Unsplash.</description>
+    </item>
+    
+  </channel>
+</rss>
